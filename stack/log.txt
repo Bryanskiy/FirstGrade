@@ -1,0 +1,113 @@
+Trying to init stack..
+OK, I'm ready to work!!
+Pushing 2, new size: 1
+Pushing 0, new size: 2
+Pushing 1, new size: 3
+Pushing 2, new size: 4
+Pushing 3, new size: 5
+Pushing 4, new size: 6
+Pushing 5, new size: 7
+Pushing 6, new size: 8
+Pushing 7, new size: 9
+Pushing 8, new size: 10
+Trying realloc stack...
+Realloced to 20
+Pushing 9, new size: 11
+Pushing 10, new size: 12
+Pushing 11, new size: 13
+Pushing 12, new size: 14
+Pushing 13, new size: 15
+Pushing 14, new size: 16
+Pushing 15, new size: 17
+Pushing 16, new size: 18
+Pushing 17, new size: 19
+Pushing 18, new size: 20
+Trying realloc stack...
+Realloced to 40
+Pushing 19, new size: 21
+Pushing 20, new size: 22
+Pushing 21, new size: 23
+Pushing 22, new size: 24
+Pushing 23, new size: 25
+Pushing 24, new size: 26
+Pushing 25, new size: 27
+Pushing 26, new size: 28
+Pushing 27, new size: 29
+Pushing 28, new size: 30
+Pushing 29, new size: 31
+Pushing 30, new size: 32
+Pushing 31, new size: 33
+Pushing 32, new size: 34
+Pushing 33, new size: 35
+Pushing 34, new size: 36
+Pushing 35, new size: 37
+Pushing 36, new size: 38
+Pushing 37, new size: 39
+Pushing 38, new size: 40
+Trying realloc stack...
+Realloced to 80
+Pushing 39, new size: 41
+Pushing 40, new size: 42
+Pushing 41, new size: 43
+Pushing 42, new size: 44
+Pushing 43, new size: 45
+Pushing 44, new size: 46
+Pushing 45, new size: 47
+Pushing 46, new size: 48
+Pushing 47, new size: 49
+Pushing 48, new size: 50
+Pushing 49, new size: 51
+Pushing 50, new size: 52
+Pushing 51, new size: 53
+Pushing 52, new size: 54
+Pushing 53, new size: 55
+Pushing 54, new size: 56
+Pushing 55, new size: 57
+Pushing 56, new size: 58
+Pushing 57, new size: 59
+Pushing 58, new size: 60
+Pushing 59, new size: 61
+Pushing 60, new size: 62
+Pushing 61, new size: 63
+Pushing 62, new size: 64
+Pushing 63, new size: 65
+Pushing 64, new size: 66
+Pushing 65, new size: 67
+Pushing 66, new size: 68
+Pushing 67, new size: 69
+Pushing 68, new size: 70
+Pushing 69, new size: 71
+Pushing 70, new size: 72
+Pushing 71, new size: 73
+Pushing 72, new size: 74
+Pushing 73, new size: 75
+Pushing 74, new size: 76
+Pushing 75, new size: 77
+Pushing 76, new size: 78
+Pushing 77, new size: 79
+Pushing 78, new size: 80
+Trying realloc stack...
+Realloced to 160
+Pushing 79, new size: 81
+Pushing 80, new size: 82
+Pushing 81, new size: 83
+Pushing 82, new size: 84
+Pushing 83, new size: 85
+Pushing 84, new size: 86
+Pushing 85, new size: 87
+Pushing 86, new size: 88
+Pushing 87, new size: 89
+Pushing 88, new size: 90
+Pushing 89, new size: 91
+Pushing 90, new size: 92
+Pushing 91, new size: 93
+Pushing 92, new size: 94
+Pushing 93, new size: 95
+Pushing 94, new size: 96
+Pushing 95, new size: 97
+Pushing 96, new size: 98
+Pushing 97, new size: 99
+Pushing 98, new size: 100
+Pushing 99, new size: 101
+Trying to destroy stack...
+Stack destroyed.
